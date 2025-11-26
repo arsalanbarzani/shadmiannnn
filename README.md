@@ -1,2 +1,2 @@
 # shadmiannnn
-click https://arsalanbarzani.github.io/shadmiannnn.html
+click https://arsalanbarzani.github.io/shadmiannnn/
